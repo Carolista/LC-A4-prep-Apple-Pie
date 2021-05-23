@@ -1,0 +1,127 @@
+
+/* Elements */
+body {
+    background-color: white;
+	font-family: 'Nunito', sans-serif;
+    font-size: 11pt;
+    font-weight: 400;
+    color: #333;
+    width: 100vw;
+    height: 100vh;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden; 
+}
+
+header {
+	background-color: #429201;
+	height: auto;
+	padding: 20px;
+	margin: 0px;
+}
+
+main {
+	width: 100%;
+	padding: 30px 100px; /* all content away from edges */
+	box-sizing: border-box;  
+    /* makes sure content adheres to padding settings on left and right */
+}
+
+footer {
+	color: white;
+	background-color: #429201;
+	text-align: center;
+	height: auto;
+	padding: 20px;
+	margin: 0px;
+}
+
+h1 { 
+	font-family: 'Dancing Script', cursive;
+	font-size: 3.5rem;
+	font-weight: 700;
+	margin: 0px 0px 10px;
+}
+
+h2 { 
+	font-size: 1.5rem;
+	font-weight: 700;
+	text-transform: uppercase;
+}
+
+h3 {
+	font-family: 'Dancing Script', cursive;
+	font-size: 2rem;
+	font-weight: 700;
+	color: #429201;
+	margin: 5px;  /* override default */
+}
+
+h4 {
+	font-weight: 500;
+	font-style: italic;
+	margin: 10px 0px 0px; /* override default */
+}
+
+p {
+	text-align: justify;
+	margin: .5rem 0px; /* override default */
+}
+
+img {
+	width: 250px;
+	margin: 10px 0px;
+}
+
+hr { 
+	height: .4rem;
+	background-color: #429201;
+	border: none;
+	margin: 20px 0px 0px;  
+    /* adjust white space */
+}
+
+a {
+	color: #367700;  /* a little darker */
+	font-weight: 600;
+	text-decoration: none;  /* remove default underline */
+}
+
+a:hover {
+	color: #49a300 !important;  /* a little lighter; had to coerce it */
+}
+
+a:visited {
+	color: #295c00;  /* darkest */
+}
+
+/* Ids */
+
+#page-title {
+	color: white;
+	text-align: center;
+}
+
+#tagline {
+    color: white;
+    text-align: center;
+    margin: 0px;
+}
+
+#intro {
+    font-style: italic;
+    margin-bottom: 20px;
+}
+
+
+/* Classes */
+
+.right  {
+    float: right;
+    margin-left: 20px;
+}
+
+.bordered {
+    border: 4px solid #429201;
+    padding: 0px;
+}
