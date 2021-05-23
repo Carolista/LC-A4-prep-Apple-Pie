@@ -1,0 +1,29 @@
+INSTRUCTIONS
+
+WRITE A HOW-TO!
+
+Think of something you're good at that others might want to learn how to do. This could be organizing a closet, making paper snowflakes, recovering/refinishing furniture, cooking/baking, knitting a hat, making a fort out of boxes for your kids (or cats), painting a room -- the sky's the limit! 
+
+1. Make sure it's something that's not too involved. You want to break it down into 3-8 major steps, and each step should have only 1-4 sentences.
+
+2. BEFORE YOU CODE - start planning your page - What elements should be included? The file content-planning.txt (on the left) has a list of requirements; use this to write up your content.
+
+3. "Wireframe" your page - sketch the layout. Which parts will go where?
+
+4. Once you have the content prepared AND the layout planned, THEN start coding. See the README file on the left for info & resources that will help you.
+
+	A. Using HTML elements, add the title of your page to the <head> and then begin adding your content to the <body> using broad elements like <header>, <main>, <article>, <section>, and <footer> -- and then basic elements like <h1>, <h2>, <p>, <hr>, <img>, <a>, <ol>, <ul>, <li>, etc. Do NOT add any inline styling to your HTML elements. We want that all to be defined in the style sheet.
+
+	B. Once you have the main content structured in HTML elements, test your page in the browser to ensure all the content is there as expected, even if it doesn't look great yet. If anything is missing or broken, go back and fix it.
+	
+	C. Make sure your style sheet is linked in the <head>. Then go to style.css and start defining properties for different elements, ids, and/or classes. Start with properties for the <body> like normal font/size, justification, background color, etc.
+
+	B. Think about the standard styling you want for all your headers (<h1> etc.) and your <p>, <img>, and <a> elements, and define those properties in your style sheet. Go check out your page and see how it's looking - make adjustments as needed.
+
+	C. Now start customizing further! Use an id when you want the style to belong only to a specific element on your page. Use a class when you want to give the same style to several elements.
+
+Keep tweaking your page until you've got the basic look you were going for and you've met all the requirements outlined in the content-planning file. It doesn't have to be fancy, but it should be easily readable and have some personality to it!	
+
+BONUS MISSION:
+If you want to get creative with fonts outside what's native to browsers, use Google fonts!
+https://fonts.google.com/

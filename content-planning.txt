@@ -1,0 +1,65 @@
+*********************************************************
+Use this file just to plan out the content before coding.
+*********************************************************
+	
+
+TITLE (logo optional)
+Carrie's Homemade Apple Pie
+
+
+TAGLINE (optional)
+the perfect blend of sweet, tart, and spiced
+
+
+INTRO (paragraph)
+It's pie season... are you ready? Years ago I started making changes to my mom's apple pie recipe, just to experiment, and eventually got to the point where I stopped experimenting because I arrived at something I really love (and other people seem to like pretty well too).
+
+
+INGREDIENTS (unordered list)
+7-8 large Granny Smith apples - washed, cored, and sliced thinly
+Juice from 1 large lemon (or 2 small ones)
+1 cup brown sugar
+1/4 cup flour
+1/4 tsp salt
+2 tsp ground cinnamon
+1/2 tsp ground nutmeg
+1/4 tsp ground cloves
+2 tsp fresh ginger, minced (or 1/2 tsp powdered ginger)
+3 tbsp butter
+1 box refrigerated, rolled pie crusts
+
+
+DIRECTIONS (ordered list)
+1. Preheat oven to 425 degrees and place bottom crust in pie dish.
+2. Slice apples and toss with lemon juice in a large bowl. 
+3. Mince fresh ginger and stir into mixture.
+4. In a medium bowl, stir together sugar, flour, and spices. Pour mixture of dry ingredients into large bowl and stir until apple slices are coated evenly.
+5. Dump apple filling into pastry-lined pie dish; flatten down a bit as necessary to keep slices from falling off the pile. Place thin pats of butter across top of filling, then trim edge of pie crust even with pie dish as needed.
+6. Carefully place top crust over apple filling; trim edge of crust to 1" beyond edge of pie pan. Fold edge of top crust under the edge of the bottom crust; pinch or use a fork to seal. Use a knife to cut openings in the top crust to allow steam to escape.
+7. Cut strips of foil 2-3" wide and crimp over crust edge to prevent overbrowning. Bake for 30 minutes, then remove foil. Bake another 15 minutes or until crust is golden brown and the filling is bubbling through the openings in the top crust. Let cool slightly, then enjoy!
+
+Holiday variation: Use two less apples, make half the apples sweet baking apples (like Honeycrisp), and add a bag of fresh cranberries. And maybe throw in another 1/4 cup brown sugar for good measure.
+
+
+IMAGES (at least two)
+
+Apples
+https://drive.google.com/uc?id=1wQwjDBbhxuwwK_Mr7GrIJ67ntRpwmml_
+
+Mixture
+https://drive.google.com/uc?id=1MZoa-gI0bp5x1TiRfPyB6ENzb1F4kemi
+
+Baked Pie
+https://drive.google.com/uc?id=1FEsdbI_L8sdgtGb6qd6sNWj-a-9vBOV3
+
+
+LINKS (at least two)
+
+Learn how to core and slice apples quickly and safely!
+https://youtu.be/P3fvVNUPEng
+
+How to mince ginger (two methods)
+https://youtu.be/lZUiigESWYM
+
+Ideas for decorative pie crusts
+https://www.bbcgoodfood.com/howto/guide/11-super-easy-ways-decorate-pie

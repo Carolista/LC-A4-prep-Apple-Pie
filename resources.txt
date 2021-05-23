@@ -1,0 +1,43 @@
+BASIC KNOWLEDGE ABOUT STYLING YOUR PAGE
+
+
+FORMATTING YOUR CODE
+Just like with JavaScript, it is a good idea to use indents in HTML to keep your code organized and represent nested sections and tag groups.
+I recommend checking your settings and selecting a 4-character-wide indent in your IDEs, then use the tab key instead of the space bar while you're coding. Shift-Tab will move you to the left. You even can select several lines at once and Tab or Shift-Tab to change their indent level!
+
+
+HTML elements
+These days it is generally a good idea to use semantic elements where possible (read more here: https://www.w3schools.com/html/html5_semantic_elements.asp). The main difference between <article> and <section> is that while either can define a smaller section of your overall content, <article> should only be used if its content could stand alone in another context. So if you want to break up your content into smaller parts that don't make sense apart from each other, use <section> instead.
+
+
+CSS PROPERTIES
+There are a lot of CSS properties out there, and some will work for one HTML tag but not another. It takes a while to learn what's what. 
+
+I recommend that you start with the most common ones:
+https://www.makeschool.com/academy/track/web-dev-with-node/your-first-website--landing-page/css-properties
+
+But a comprehensive list is here: https://www.w3schools.com/cssref/
+This list has clickable links with examples for each property key and its possible values. 
+
+To adjust your CSS, use the browser's inspect elements feature to get info and see visualizations of your margins, paddings, sizes, etc.
+
+
+COLOR CODES
+You can define colors multiple ways. "red", "#FF0000", and "RGB(100,0,0)" all mean the same thing. Most IDEs have a built-in color picker if you hover over the name/code in your CSS file.
+See https://htmlcolorcodes.com/ for more information. There is a limited list of colors that have simple names like "red" - click on the link further down on that page to get the full list. 
+
+
+VALUES FOR HEIGHT AND WIDTH
+There are different ways to define these. Sometimes you want to make something relative to the browser view pane with a value like 100vw (the entire width of the screen) or 20vh (20% of the view height). Other times you want to take a percentage that is relative to the height of the <div> that the content is within - 60%, for example. And sometimes you want to have a fixed constraint like 200px (pixels). You can also base things on text height with something like 1.3rem (130% the height of the default text for the entire page) or 0.9em (90% of the height of the nested text, like if it's been defined within a <p> or <div>).
+
+Here's a good resource with examples: 
+https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Sizing_items_in_CSS
+
+
+EMBEDDING IMAGES FROM GOOGLE DRIVE
+In cases where I had my own images saved on my Google Drive, I was able to use them here on Repl.it by following these instructions:
+https://youtu.be/Y1joksnUW04
+
+
+FINDING EXAMPLES OF WHAT YOU WANT ONLINE
+Use developer tools in your browser to view the source and inspect elements on other people's websites. You can learn a lot from other sites if you're ready to try to read through more complex code.
